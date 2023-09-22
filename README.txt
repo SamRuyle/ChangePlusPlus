@@ -3,7 +3,7 @@ email: samuel.m.ruyle@vanderbilt.edu
 
 Reflection: I had a lot of fun with this project. This was the first time I ever made a full stack 
 project without anyone holding my hand, and it was very satisfying to watch my project come to life.
-Some of the code an algorithms I wrote were a little bit sloppy, and I would love to go back and 
+Some of the code and algorithms I wrote were a little bit sloppy, and I would love to go back and 
 tweak and work on them some more. I also would love to go back and make the frontend prettier. 
 
 I think this was a very cool project, especially for someone's first solo project. It was fun and
